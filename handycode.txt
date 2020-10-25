@@ -1,0 +1,10 @@
+System.out.println("Enter the dimensions of the rectangle");
+            int width = scan.nextInt();
+                    int Length = scan.nextInt();
+                    double area=scan.nextDouble();
+                    System.out.println("The area of the rectangle is " +area);
+
+
+
+
+scan.nextInt()
